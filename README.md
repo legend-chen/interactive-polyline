@@ -6,3 +6,6 @@ What's more, primarily, you can drag, rotate and zoom the canvas in any way you 
 [online here](https://legend-chen.github.io/interactive-polyline/bin/index.html) 
 
 
+## 
+
+<img src="polyline.png" />
